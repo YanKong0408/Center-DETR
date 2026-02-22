@@ -73,7 +73,7 @@ python tools/train.py configs/co_dino_5scale_swin_large_16e_o365tococo_yankong_b
 ```
 
 4. **Inference**
-See [inference_demo.ipynb](https://github.com/YanKong0408/Center-DETR/blob/main/inference_demo.ipynb)
+See [inference_demo.ipynb](https://github.com/YanKong0408/Center-DETR/blob/main/inference_demo.ipynb).
 Remember to place our [inference_demo.ipynb]() in [\Co-DETR\demo](), then run it.
 
 ### Our models
@@ -88,3 +88,4 @@ If you find our work useful, please consider citing:
 ```bibtex
 coming soon
 ```
+
