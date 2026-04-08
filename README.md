@@ -22,7 +22,7 @@ For more details, please refer to our paper:
 > Yan Kong, Yuan Yin, Yuqi Fang*, Caifeng Shan*  
 > ISBI Challenge 2026
 
-[[Paper Link]](link-to-paper) | [[Challenge Link]](https://www.kaggle.com/competitions/riva-cervical-cytology-challenge-track-a-isbi-final-evaluation/overview)
+[[Paper Link]](https://arxiv.org/pdf/2604.02090) | [[Challenge Link]](https://www.kaggle.com/competitions/riva-cervical-cytology-challenge-track-a-isbi-final-evaluation/overview)
 
 ---
 
@@ -86,6 +86,11 @@ Download our models from HuggingFace:
 ### 📝 Citation
 If you find our work useful, please consider citing:
 ```bibtex
-coming soon
+@article{kong2026center,
+  title={Center-Aware Detection with Swin-based Co-DETR Framework for Cervical Cytology},
+  author={Kong, Yan and Yin, Yuan and Chen, Hongan and Fang, Yuqi and Shan, Caifeng},
+  journal={arXiv preprint arXiv:2604.02090},
+  year={2026}
+}
 ```
 
